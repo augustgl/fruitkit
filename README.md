@@ -7,6 +7,10 @@ Thanks a lot to Mathew S for helping me with this. This rootkit is inspired by h
 
 EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS.
 
+### UPDATE 1/8/2020
+
+happy new years. I think the UAC bypass is now patched. good luck.
+
 ## Getting Started
 
 Make a pull request, download the file as a zip file.
