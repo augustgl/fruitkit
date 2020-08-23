@@ -3,7 +3,7 @@
 Simple rootkit made in C. Has a UAC bypass, dynamically calls functions to avoid AV hooks, remade LoadLibrary and GetProcAddress, cuz AV hooks those too sometimes
 Also makes some kernel level function calls. 
 
-Thanks a lot to Mathew S for helping me with this. This rootkit is inspired by his, and is pretty much a simpler version of it. his github is https://github.com/mstefanowich
+Thanks a lot to Mathew S for helping me with this. This rootkit is inspired by his. his github is https://github.com/mstefanowich
 
 EDUCATIONAL PURPOSES ONLY. I AM NOT RESPONSIBLE FOR WHAT YOU DO WITH THIS.
 
