@@ -21,8 +21,7 @@
   :_________:
    :_________`-;
     `.__.-.__.'
-                                               
-	i love apples! an apple a day keeps the security researchers away!
+
 */                                             
 
 #include <Windows.h>
