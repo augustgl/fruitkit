@@ -58,7 +58,6 @@ BOOL vxExecuteFodhelper() {
 	si.cb = sizeof(STARTUPINFO);
 	
 	if (!CreateProcessA("C:\\Windows\\System32\\cmd.exe", "/c C:\\Windows\\System32\\fodhelper.exe", NULL, NULL, FALSE, NORMAL_PRIORITY_CLASS, NULL, NULL, &si, &pi)) {
-		DWORD fuck = GetLastError();
 		return FALSE;
 	}
 	/*
